@@ -88,7 +88,7 @@ html, body {
     background: transparent;
     border-radius: 0;
     justify-self: end;
-    margin-right: 600px;
+    margin-right: 350px;
     display: flex;
     flex-direction: column;
     gap: 15px;
